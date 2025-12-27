@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "2 Μ Ο Я Ο",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-27T15:04:19.881791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "2 Μ Ο Я Ο",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_2_Μ_Ο_Я_Ο_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2 Μ Ο Я Ο",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_2_Μ_Ο_Я_Ο_King_Gnu.txt"
+    }
+  ]
+}
